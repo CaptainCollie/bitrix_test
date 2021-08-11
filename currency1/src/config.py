@@ -1,0 +1,1 @@
+webhook = "https://b24-u3xm0y.bitrix24.ru/rest/1/e7fqzxuzxfp2gs8t/"
